@@ -1,4 +1,4 @@
-![https___img shields](https://github.com/user-attachments/assets/4f6dfd87-b8e1-478d-a88e-fee720217356)# Olá pessoal, sejam bem vindos ao meu GitHub 👋😄
+# Olá pessoal, sejam bem vindos ao meu GitHub 👋😄
 ---
 #👩‍💻Cursando técnico informática (Senac Tatuapé sp)
 
