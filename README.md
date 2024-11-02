@@ -1,4 +1,4 @@
-# Olá pessoal, sejam bem vindos ao meu GitHub 👋😄
+![https___img shields](https://github.com/user-attachments/assets/4f6dfd87-b8e1-478d-a88e-fee720217356)# Olá pessoal, sejam bem vindos ao meu GitHub 👋😄
 ---
 #👩‍💻Cursando técnico informática (Senac Tatuapé sp)
 
@@ -28,15 +28,16 @@
 * (Verificação de integridade do hardware)
 * (Avaliação de peças e preços)
 
-#🎮Hobbies
+#🎮Hobbies 
 
-
-
----
-#🎯Objetivo
-
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
+[![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]
 
 ---
+#📱Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-168930261/)
 
 
   
